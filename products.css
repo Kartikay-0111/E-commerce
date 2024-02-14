@@ -91,7 +91,8 @@ main {
     overflow-y: scroll;
     overflow-x: hidden;
 }
-main div{
+
+main div {
     background-color: antiquewhite;
     border: 2px solid orangered;
     margin: 6px 5px;
@@ -102,7 +103,7 @@ main div{
     align-items: center;
 }
 
-main img{
+main img {
     object-fit: contain;
 }
 
@@ -149,4 +150,3 @@ footer {
     text-decoration: none;
     color: white;
 }
-
